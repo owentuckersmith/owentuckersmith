@@ -1,0 +1,15 @@
+.text {
+  color: red;
+}
+
+.header {
+  color: blue;
+}
+
+#purple {
+  color: purple;
+}
+
+Body {
+  font-family: 'DM Serif Display', serif;
+}
