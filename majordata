@@ -1,9 +1,9 @@
-"region";"subregion";"key";"value";"v2";"v3";"v4";"v5";"v6”;"v7";"v8";"v9";"v10";"v11"
-“Humanities”;“Test”;“Arts & Humanities African American Studies”;2;4;1;2;2;0;1;2;5;3;4
-“Humanities”;“Test”;“African Studies”;2;3;2;1;1;0;1;0;0;1;0 
-“Humanities”;“Test”;“American Studies”;12;17;27;15;17;23;20;22;11;14;13
-“Humanities”;“Test”;“Archeological Studies”;0;2;2;1;1;1;1;2;1;1;1 
-“Humanities”;“Test”;“Architecture”;20;26;16;14;17;17;18;9;11;18;22 
-“Humanities”;“Test”;“Art”;25;17;12;21;14;15;10;11;8;16;11 
-“Humanities”;“Test”;“Classics”;11;14;7;9;6;5;11;6;5;7;3 
-“Humanities”;“Test”;“Computing & the Arts”;0;3;2;1;1;2;2;2;3;5;7
+"region";"subregion";"key";"value"
+“Humanities”;“Test”;“Arts & Humanities African American Studies”;2
+“Humanities”;“Test”;“African Studies”;2
+“Humanities”;“Test”;“American Studies”;12
+“Humanities”;“Test”;“Archeological Studies”;0
+“Humanities”;“Test”;“Architecture”;20
+“Humanities”;“Test”;“Art”;25
+“Humanities”;“Test”;“Classics”;11
+“Humanities”;“Test”;“Computing & the Arts”;0
